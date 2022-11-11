@@ -1,0 +1,6 @@
+.list_ty .mxzf li{
+    border: 2px solid #ff9900;
+    background-color: rgba(128, 128, 128, 0.35);
+    margin-bottom: 5px;
+    border-radius: 10px;
+}

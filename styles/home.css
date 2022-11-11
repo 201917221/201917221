@@ -1,0 +1,67 @@
+.dao-hang {
+  border: 4px solid rebeccapurple;
+  border-radius: 1em;
+  background-color: pink;
+}
+.links-list{
+  list-style-type: none;
+  margin: auto;
+}
+.links-list li{
+  display: inline-block;
+  margin: auto;
+}
+.links-list a {
+  background-color: rgba(0, 72, 255, 0.27);
+  color: #fff;
+  text-decoration: none;
+  padding: 1em 2em;
+  display: inline-block;
+  border-radius: 1em;
+  width: 278px;
+  text-align: center;
+}
+.links-list a:hover {
+  background-color: rgb(66, 28, 40);
+  color: #fff;
+}
+.ding-wei{
+  text-align: center;
+  background-color: red;
+  position: relative;
+  width: 99%;
+  bottom: 0;
+}
+#ad {
+  margin: 0;
+  padding: 0;
+  width: 1024px;
+  height: 682px;
+}
+#ad button{
+
+}
+.jieshao{
+  width: 50%;
+  float: left;
+  background-color: aqua;
+  border-radius: 1em;
+}
+.jieshao a{
+  text-decoration: none;
+}
+.biao-shi{
+  width: 50%;
+  float: right;
+  background-color: #5fa060;
+  border-radius: 1em;
+}
+.biao-shi a{
+  text-decoration: none;
+}
+#ad-f {
+  font-size: xx-large;
+  text-align: center;
+}
+
+
